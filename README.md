@@ -1,4 +1,4 @@
-# FFT-based Permeability Prediction (External Version)
+# FFT-based Permeability Prediction (PISA-FFT)
 
 This repository provides a **clean, modular** implementation of an FFT-based permeability
 prediction model with **physics-aware patch embeddings**.
@@ -79,4 +79,10 @@ The training script will:
 
 ---
 
-ign.
+## Dataset
+DeePore dataset on Zenodo:  
+https://zenodo.org/records/4297035
+Eleven Sandstones micro-CT dataset:
+https://github.com/LukasMosser/digital_rocks_data
+Seven Fontainebleau sandstone specimens
+https://digitalporousmedia.org/published-datasets/drp.project.published.DRP-57
