@@ -79,12 +79,4 @@ The training script will:
 
 ---
 
-## 4. Reproducibility Notice
-
-For ease of use, the default configuration:
-- Uses a random split of the dataset without a fixed seed unless `--seed` is specified,
-- Follows standard PyTorch initialization and training practices.
-
-As a result, **exact numerical reproduction of reported results may require
-careful control of hardware, library versions, and seeds**. The provided code
-is primarily intended to illustrate the overall pipeline and model design.
+ign.
