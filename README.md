@@ -82,7 +82,9 @@ The training script will:
 ## Dataset
 DeePore dataset on Zenodo:  
 https://zenodo.org/records/4297035
+
 Eleven Sandstones micro-CT dataset:
 https://github.com/LukasMosser/digital_rocks_data
+
 Seven Fontainebleau sandstone specimens
 https://digitalporousmedia.org/published-datasets/drp.project.published.DRP-57
