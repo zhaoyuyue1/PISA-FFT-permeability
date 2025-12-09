@@ -80,8 +80,7 @@ The training script will:
 ---
 
 ## Dataset
-DeePore dataset on Zenodo:  
-https://zenodo.org/records/4297035
+DeePore dataset on Zenodo:https://zenodo.org/records/4297035
 
 Eleven Sandstones micro-CT dataset:
 https://github.com/LukasMosser/digital_rocks_data
