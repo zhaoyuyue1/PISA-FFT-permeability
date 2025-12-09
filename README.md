@@ -1,5 +1,12 @@
-# FFT-based Permeability Prediction (PISA-FFT)
+# PISA-FFT: Physics-aware spectral network for permeability prediction
 
+**Article title:**  
+PISA-FFT: Physics-Aware Spectral Adaptation with Fast Fourier Transform for Permeability Prediction in Porous Media
+**Journal:** Computers & Geosciences (submitted)
+
+**Authors:**  
+Huayu Li, Yuyue Zhao*, Xiangling Meng  
+(*corresponding author, email: zhaoyuyue@s.upc.edu.cn)
 This repository provides a **clean, modular** implementation of an FFT-based permeability
 prediction model with **physics-aware patch embeddings**.
 
